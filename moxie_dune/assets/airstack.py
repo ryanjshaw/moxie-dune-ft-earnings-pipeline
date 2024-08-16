@@ -23,8 +23,7 @@ def ft_auctions_json(context):
         input: {
             blockchain: ALL,
             filter: {
-                entityType: {_eq: $entityType},
-                status: {_eq: COMPLETED}
+                entityType: {_eq: $entityType}
             },
             order: {estimatedStartTimestamp: ASC},
             limit: 100,
