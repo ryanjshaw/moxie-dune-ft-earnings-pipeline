@@ -15,6 +15,15 @@ Demonstrates:
 
 See [Moxie Fan Token Rate of Return](https://dune.com/queries/3979826) for an example of how to use the uploaded data.
 
+## Useful Links
+
+- [Airstack API Studio](https://app.airstack.xyz/api-studio)
+- [Get a free plan for your API usage](https://warpcast.com/betashop.eth/0x2ec2bd6e)
+- [Moxie Protocol Subgraph API](https://developer.moxie.xyz/api/protocol/overview)
+- [Fan Token Auction Subgraph API](https://developer.moxie.xyz/api/auction/overview)
+- [Fan Token Auction Clearing Price API](https://developer.moxie.xyz/api/clearing-price-api/overview)
+- [Vesting API](https://developer.moxie.xyz/api/vesting/overview)
+
 ## Getting started
 
 1. Copy `.env-example` to `.env` and populate your Airstack and Dune API keys
